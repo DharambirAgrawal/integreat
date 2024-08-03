@@ -1,3 +1,3 @@
 import HeroImage from "./homepage/hero.png";
-
-export { HeroImage };
+import FormSideBarImage from "./homepage/formSidebar.png";
+export { HeroImage, FormSideBarImage };
